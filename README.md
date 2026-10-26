@@ -10,13 +10,13 @@
 
 ### 💻 About Me
 - 🔭 I'm a **Freelance Full-Stack Developer** specializing in enterprise-grade Custom Web Applications, CRMs, ERP Portals, and POS integrations.
+- email: rahulphp6@gmail.com & Mobile: +91-9990099238.
 - ⚡ Deep expertise in **Core PHP (MVC), MySQL, JavaScript, jQuery, Bootstrap 4/5, and Basic Angular**.
 - 🔌 Specialized in complex **Third-Party API Integrations** (Zoho Books, Zoho Analytics, Twilio, WhatsApp Business, and Payment Gateways).
 - 🛠️ Proficient in working with major **CMS & E-commerce Platforms**: WordPress, Joomla, Magento, OpenCart, Drupal, Shopify, and WooCommerce.
 - 🏋️‍♂️ Passionate about clean backend architecture, secure database design, and streamlined local development workflows using **Laragon, XAMPP & VS Code**.
 
 ---
-
 ### 🛠️ Tech Stack & Tools
 <p>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
@@ -52,18 +52,14 @@
 | 7 | 👥 **Employee Management System (HR)** | Internal HR portal for payroll management, leave applications, employee directory, and performance tracking. | PHP · MySQL · Bootstrap · jQuery | 🟢 Completed |
 
 ---
-
-### 📊 GitHub Stats
+### 📊 GitHub Stats & Most Used Languages
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=rahulphp6&show_icons=true&theme=radical&hide_border=true" alt="Rahul's GitHub Stats" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=rahulphp6&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
-
----
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulphp6&layout=compact&theme=radical&hide_border=true" alt="Most Used Languages" />
+</p>
 ### 📫 Connect with Me
 - **Brand / Handle:** `rahulphp6`
 - **Location:** Bhajanpura, Delhi, India
